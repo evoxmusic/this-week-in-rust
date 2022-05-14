@@ -38,6 +38,7 @@ and just ask the editors to select the category.
 ### Observations/Thoughts
 
 * [video] [Building a Postgres storage system in Rust](https://www.youtube.com/watch?v=kAQeout-mh8)
+* [A Guided Tour of Streams in Rust](https://www.qovery.com/blog/a-guided-tour-of-streams-in-rust)
 
 ### Rust Walkthroughs
 
